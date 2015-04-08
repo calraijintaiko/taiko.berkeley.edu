@@ -1,0 +1,44 @@
+.left {
+	font-size: 20pt;
+}
+#header {
+	height: 130px;
+	position: relative;
+}#header #logo {
+	position: absolute;
+	height: 57px;
+	width: 211px;
+	text-indent: -1000px;
+	left: 0px;
+	top: 30px;
+}
+#heads {
+	font-size: 0.3em;
+}
+/* --------------------------------------------------- COLUMNS */
+#columns p {
+	font-size: 8pt;
+}
+#columns h4 {
+	font-size: 10pt;
+}
+#columns h2 {
+	font-size: 1.4em;
+}
+#footer {
+   padding: 9px 0px 0px 25px;
+}
+.descr{
+	width:100%;
+	position:relative;
+	margin-top:25px;
+}
+.clearfix {
+    zoom: 1;     /* triggers hasLayout */
+    display: block;     /* resets display for IE/Win */
+    }  /* Only IE can see inside the conditional comment
+    and read this CSS rule. Don't ever use a normal HTML
+    comment inside the CC or it will close prematurely. */
+td {
+	empty-cells:show;
+}

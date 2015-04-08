@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://taiko.berkeley.edu/</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-09-10T18:00:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/index.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-09-10T18:00:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/about.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-09-10T18:00:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+
+<loc>http://taiko.berkeley.edu/bio.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-09-10T18:00:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>  <loc>http://taiko.berkeley.edu/history.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-09-10T18:00:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-09-10T18:00:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/calendar.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-09-10T18:00:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/resources.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-09-10T18:00:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/contact.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-09-10T18:00:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-10T06:34:43+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-10T06:34:47+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/1.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:53:20+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/2.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:27:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/3.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:27:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/4.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:27:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/5.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:27:40+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/6.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:27:44+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/7.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:27:48+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/8.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T14:25:52+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/9.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T14:26:48+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/10.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T14:26:44+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/11.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T14:28:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2007/m1.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T14:08:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/1.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:24:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/2.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:25:51+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/3.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:25:56+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/4.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:26:08+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/5.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:26:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/6.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:26:18+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/7.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:26:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/8.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:26:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/9.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:26:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/10.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:25:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/11.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:25:20+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/12.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:25:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/13.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:25:30+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/14.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:25:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/15.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T13:25:43+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://taiko.berkeley.edu/media/2006/m1.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2007-11-09T14:09:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>

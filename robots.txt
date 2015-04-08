@@ -1,0 +1,2 @@
+Sitemap: http://taiko.berkeley.edu/sitemap.xml
+User-Agent: *

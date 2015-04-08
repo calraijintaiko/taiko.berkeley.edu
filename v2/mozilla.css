@@ -1,0 +1,210 @@
+<!--
+#page {
+	width:1000px;
+	height:auto;
+}
+/* TOP */
+#top {
+	margin-top:30px;
+	width:1000px;
+	height:125px;
+	background-image:url('http://i236.photobucket.com/albums/ff160/raijintaiko/top_banner.gif');
+	background-repeat:repeat-x;
+}
+#title {
+	position:absolute;
+	top:45px;
+	left:200px;
+}
+#taiko {
+	position:absolute;
+	top:10px;
+	left:40px;
+}
+/* SIDE */
+#side {
+	width:225px;
+	height:auto;
+	background-color:#111144;
+	float:left;
+}
+#upcoming {
+	width:auto;
+	height:350px;
+	margin:70px 25px 25px 25px;
+	background-color:#333333;
+	border-color:#666666;
+	border-width:3px;
+	border-style:solid;
+	font-family:"trebuchet ms","arial";
+	font-size:10pt;
+	color:#ffc600;
+}
+.upcontain {
+	width:auto;
+	height:auto;
+	margin:10px 10px 20px 10px;
+	clear:both;
+}
+.uptitle {
+	font-style:italic;
+	font-size:14pt;
+}
+.upevent {
+	margin:0 0 10px 0;
+}
+.fleft {
+	float:left;
+}
+.fright {
+	float:right;
+}
+.detail {
+	color:#ffffff;
+	margin: 0px 0px 0px 20px;
+}
+#ocf {
+	width:400px;
+	height:auto;
+	margin: 0px 0px 25px 75px;
+}
+/* MAIN */
+#main {
+	width:725px;
+	height:465px;
+	background-color:#cccccc;
+	border-color:#333333;
+	border-width:3px;
+	border-right-style:solid;
+	float:left;
+}
+#linkbar {
+	width:625px;
+	height:30px;
+	background-color:#333333;
+	float:left;
+	text-align:right;
+	color:#ffffff;
+	font-style:italic;
+	font-family:"trebuchet ms","arial";
+}
+#linkend {
+	width:20px;
+	height:30px;
+	background-image:url('http://i236.photobucket.com/albums/ff160/raijintaiko/linkend.gif');
+	float:left;
+}
+.links {
+	position:relative;
+	top:-2px;
+	vertical-align:middle;
+	width:auto;
+	height:auto;
+	font-size:14pt;
+	font-weight:lighter;
+	float:right;
+	text-align:center;
+}
+.link {
+	float:left;
+	width:auto;
+	margin: 5px 0 5px 10px;
+}
+.link a:visited, .link a:link {
+	font-size:11pt;
+	color:#ffc600;
+}
+.link a:hover {
+	color:#ffffff;
+}
+.linkdiv {
+	float:left;
+	width:auto;
+	margin: 5px 0 5px 10px;
+}
+#photo {
+	width:524px;
+	height:270px;
+	float:left;
+	border-width:3px;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-color:#333333;
+}
+#contactus {
+	float:right;
+	width:auto;
+	text-align:right;
+	font-family:"trebuchet ms","arial";
+	font-weight:bold;
+	font-style:italic;
+	font-size:12pt;
+	color:#111144;
+	margin:20px;
+}
+.contact {
+	font-size:8pt;
+	text-align:right;
+	font-weight:normal;
+	margin:10px 0 0 0;
+	line-height:15px;
+}
+#textblock {
+	float:left;
+	width:500px;
+	margin:20px;
+	font-family:"trebuchet ms","arial";
+	font-size:9pt;
+	color:#111144;
+}
+/* BOTTOM */
+#bottom {
+	width:775px;
+	height:50px;
+	background-image:url('http://i236.photobucket.com/albums/ff160/raijintaiko/bottom_banner.gif');
+	background-repeat:repeat-x;
+	float:left;
+
+}
+#foot {
+	float:right;
+	color:#ffc600;
+	width:200px;
+	height:auto;
+	vertical-align:middle;
+	font-size:10pt;
+	font-family:"trebuchet ms","arial";
+	margin:15px;
+}
+#foot a:link, #foot a:visited{
+	color:#ffc600;
+	text-decoration:none;
+	font-weight:normal;
+	float:left;
+	font-size:10pt;
+}
+#footw {
+	position:relative;
+	top:-3px;
+	color:#ffffff;
+	letter-spacing:-5px;
+	float:left;
+	font-size:12pt;
+	margin:0px 10px;
+}
+/* STYLE */
+body {
+	margin:0px 10px;
+}
+a:link, a:visited {
+	color:#111144;
+	font-family: helvetica, arial, sans-serif;
+	font-weight:bold;
+	text-decoration:none;
+	font-size:8pt;
+}
+a:hover {
+	color:#ffffff;
+}
+
+-->
